@@ -1,6 +1,6 @@
 # CS-360-Mobile-Architect-Programming
 
-### Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+#### Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
 The Event Tracker app was designed to help users create, view, and manage upcoming events in one place. The app allows users to log in, add event information such as the name, date, time, location, and description, and view upcoming events. The goal was to provide a simple way for users to keep track of important events and receive reminders so they do not forget them.
 
